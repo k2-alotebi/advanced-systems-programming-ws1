@@ -83,7 +83,7 @@ jg      error          ; Jump if greater than 100
 
 **Expected Output:** `Sum of array: 5050`
 
-**Mathematical Verification:** Sum of 1 to 100 = n(n+1)/2 = 100(101)/2 = 5050 ✓
+**Mathematical Verification:** Sum of 1 to 100 = n(n+1)/2 = 100(101)/2 = 5050 
 
 **Screenshot:**
 ![Task 2.1 Output](screenshots/task2_2.png)
