@@ -34,7 +34,7 @@ mov     [result], eax  ; Store result
 ```
 
 **Screenshot:** 
-![Task 1 Output](screenshots/task1.png)
+![Task 1 Output](/task1.png)
 
 ---
 
@@ -47,7 +47,7 @@ mov     [result], eax  ; Store result
 - `call print_int` - Display integer result
 
 **Screenshot:**
-![Task 2.1 Output](screenshots/task1_2.png)
+![Task 2.1 Output](/task1_2.png)
 ---
 
 ## Task 2: Loops and Conditionals (20%)
@@ -69,7 +69,7 @@ jg      error          ; Jump if greater than 100
 ```
 
 **Screenshot:**
-![Task 1.2 Output](screenshots/task2_1.png)
+![Task 1.2 Output](/task2_1.png)
 
 ---
 
@@ -86,7 +86,7 @@ jg      error          ; Jump if greater than 100
 **Mathematical Verification:** Sum of 1 to 100 = n(n+1)/2 = 100(101)/2 = 5050 
 
 **Screenshot:**
-![Task 2.1 Output](screenshots/task2_2.png)
+![Task 2.1 Output](/task2_2.png)
 ---
 
 ## Task 3: Makefile (20%)
