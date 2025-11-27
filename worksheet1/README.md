@@ -218,7 +218,7 @@ worksheet1/
 
 ## Submission
 
-**GitHub Repository:** https://github.com/k2-alotebi/advanced-systems-programming-ws1  
+**GitHub Repository:** https://github.com/k2-alotebi/Worksheet1  
 **Status:** Complete 
 
 ---
