@@ -23,9 +23,9 @@ This worksheet demonstrates assembly language programming including:
 
 **Code Explanation:**
 ```asm
-mov     eax, [num1]    ; Load first number into EAX
-add     eax, [num2]    ; Add second number to EAX
-mov     [result], eax  ; Store result
+mov     eax, [num1]   
+add     eax, [num2]   
+mov     [result], eax  
 ```
 
 **Output:**
@@ -62,10 +62,10 @@ mov     [result], eax  ; Store result
 
 **Assembly Logic:**
 ```asm
-cmp     eax, 50        ; Compare with minimum
-jl      error          ; Jump if less than 50
-cmp     eax, 100       ; Compare with maximum
-jg      error          ; Jump if greater than 100
+cmp     eax, 50       
+jl      error         
+cmp     eax, 100      
+jg      error        
 ```
 
 **Screenshot:**
@@ -100,9 +100,9 @@ jg      error          ; Jump if greater than 100
 
 **Usage:**
 ```bash
-make all     # Build all programs
-make clean   # Remove compiled files
-make task1   # Build specific task
+make all    
+make clean  
+make task1   
 ```
 
 **Makefile Structure:**
@@ -139,10 +139,10 @@ make all
 ### Run Individual Programs:
 ```bash
 cd src
-./task1      # Simple addition
-./task1_2    # Interactive addition
-./task2_1    # Welcome message loop
-./task2_2    # Array sum
+./task1      
+./task1_2    
+./task2_1   
+./task2_2   
 ```
 
 ---
